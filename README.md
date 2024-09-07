@@ -9,6 +9,7 @@ Data Structures and Algorithms Solutions
 | [0001-two-sum](https://github.com/StafShah/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/StafShah/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/StafShah/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/StafShah/DSA/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/StafShah/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/StafShah/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/StafShah/DSA/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -62,4 +64,8 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/StafShah/DSA/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/StafShah/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
