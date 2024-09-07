@@ -19,6 +19,7 @@ Data Structures and Algorithms Solutions
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 ## Hash Table
 |  |
@@ -61,6 +62,7 @@ Data Structures and Algorithms Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StafShah/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/StafShah/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
+| [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 ## Sliding Window
 |  |
@@ -91,6 +93,7 @@ Data Structures and Algorithms Solutions
 | [0005-longest-palindromic-substring](https://github.com/StafShah/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
 | ------- |
