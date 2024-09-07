@@ -41,6 +41,7 @@ Data Structures and Algorithms Solutions
 | [0695-max-area-of-island](https://github.com/StafShah/DSA/tree/master/0695-max-area-of-island) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
+| [0747-min-cost-climbing-stairs](https://github.com/StafShah/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0829-subdomain-visit-count](https://github.com/StafShah/DSA/tree/master/0829-subdomain-visit-count) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
@@ -174,6 +175,7 @@ Data Structures and Algorithms Solutions
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/StafShah/DSA/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0747-min-cost-climbing-stairs](https://github.com/StafShah/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/StafShah/DSA/tree/master/1250-longest-common-subsequence) |
 | [1376-selling-pieces-of-wood](https://github.com/StafShah/DSA/tree/master/1376-selling-pieces-of-wood) |
