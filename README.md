@@ -56,6 +56,7 @@ Data Structures and Algorithms Solutions
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/StafShah/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 ## Linked List
@@ -65,6 +66,7 @@ Data Structures and Algorithms Solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/StafShah/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/StafShah/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/StafShah/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 ## Math
 |  |
@@ -207,6 +209,7 @@ Data Structures and Algorithms Solutions
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 ## Union Find
@@ -327,4 +330,8 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
