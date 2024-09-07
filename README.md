@@ -17,6 +17,7 @@ Data Structures and Algorithms Solutions
 | [0041-first-missing-positive](https://github.com/StafShah/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Data Structures and Algorithms Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StafShah/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/StafShah/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -54,6 +56,7 @@ Data Structures and Algorithms Solutions
 | [0013-roman-to-integer](https://github.com/StafShah/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StafShah/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/StafShah/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +92,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/StafShah/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
