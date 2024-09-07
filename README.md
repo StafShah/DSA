@@ -28,6 +28,7 @@ Data Structures and Algorithms Solutions
 | [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/StafShah/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
+| [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 ## Linked List
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Data Structures and Algorithms Solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/StafShah/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/StafShah/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/StafShah/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/StafShah/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
 | ------- |
@@ -121,4 +124,8 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 <!---LeetCode Topics End-->
