@@ -85,6 +85,7 @@ Data Structures and Algorithms Solutions
 | [0141-linked-list-cycle](https://github.com/StafShah/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/StafShah/DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/StafShah/DSA/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/StafShah/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
@@ -146,6 +147,7 @@ Data Structures and Algorithms Solutions
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0242-valid-anagram](https://github.com/StafShah/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/StafShah/DSA/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/StafShah/DSA/tree/master/0299-bulls-and-cows) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
@@ -245,6 +247,7 @@ Data Structures and Algorithms Solutions
 | [0056-merge-intervals](https://github.com/StafShah/DSA/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/StafShah/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/StafShah/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0242-valid-anagram](https://github.com/StafShah/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/StafShah/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
