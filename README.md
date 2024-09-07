@@ -31,6 +31,7 @@ Data Structures and Algorithms Solutions
 | [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/StafShah/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/StafShah/DSA/tree/master/0076-minimum-window-substring) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 ## Linked List
 |  |
@@ -62,12 +63,14 @@ Data Structures and Algorithms Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StafShah/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/StafShah/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/StafShah/DSA/tree/master/0076-minimum-window-substring) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/StafShah/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/StafShah/DSA/tree/master/0076-minimum-window-substring) |
 ## Binary Search
 |  |
 | ------- |
