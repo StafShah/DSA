@@ -26,6 +26,7 @@ Data Structures and Algorithms Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/StafShah/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/StafShah/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
@@ -133,6 +134,7 @@ Data Structures and Algorithms Solutions
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/StafShah/DSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/StafShah/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
