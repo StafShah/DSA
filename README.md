@@ -51,6 +51,7 @@ Data Structures and Algorithms Solutions
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/StafShah/DSA/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/StafShah/DSA/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/StafShah/DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0829-subdomain-visit-count](https://github.com/StafShah/DSA/tree/master/0829-subdomain-visit-count) |
 | [0907-koko-eating-bananas](https://github.com/StafShah/DSA/tree/master/0907-koko-eating-bananas) |
@@ -170,6 +171,7 @@ Data Structures and Algorithms Solutions
 | [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0792-binary-search](https://github.com/StafShah/DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/StafShah/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/StafShah/DSA/tree/master/1023-time-based-key-value-store) |
