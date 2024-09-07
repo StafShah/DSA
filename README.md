@@ -242,6 +242,7 @@ Data Structures and Algorithms Solutions
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/StafShah/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1706-min-cost-to-connect-all-points](https://github.com/StafShah/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Depth-First Search
 |  |
@@ -261,6 +262,7 @@ Data Structures and Algorithms Solutions
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/StafShah/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -278,6 +280,7 @@ Data Structures and Algorithms Solutions
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/StafShah/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Prefix Sum
 |  |
@@ -329,6 +332,7 @@ Data Structures and Algorithms Solutions
 | [0207-course-schedule](https://github.com/StafShah/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/StafShah/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Combinatorics
 |  |
 | ------- |
