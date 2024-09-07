@@ -22,6 +22,7 @@ Data Structures and Algorithms Solutions
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
+| [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
@@ -81,6 +82,7 @@ Data Structures and Algorithms Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/StafShah/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/StafShah/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -131,6 +133,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/StafShah/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
+| [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 ## Merge Sort
 |  |
 | ------- |
@@ -139,6 +142,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
+| [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Monotonic Stack
 |  |
@@ -151,6 +155,7 @@ Data Structures and Algorithms Solutions
 ## Union Find
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 ## Graph
@@ -161,10 +166,12 @@ Data Structures and Algorithms Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 <!---LeetCode Topics End-->
