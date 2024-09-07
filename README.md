@@ -153,6 +153,7 @@ Data Structures and Algorithms Solutions
 | [0242-valid-anagram](https://github.com/StafShah/DSA/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/StafShah/DSA/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/StafShah/DSA/tree/master/0299-bulls-and-cows) |
+| [0392-is-subsequence](https://github.com/StafShah/DSA/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
@@ -207,6 +208,7 @@ Data Structures and Algorithms Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/StafShah/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/StafShah/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
@@ -227,6 +229,7 @@ Data Structures and Algorithms Solutions
 | [0322-coin-change](https://github.com/StafShah/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/StafShah/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
