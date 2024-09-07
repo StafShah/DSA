@@ -42,6 +42,7 @@ Data Structures and Algorithms Solutions
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/StafShah/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2262-solving-questions-with-brainpower](https://github.com/StafShah/DSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
 |  |
 | ------- |
@@ -159,6 +160,7 @@ Data Structures and Algorithms Solutions
 | [1250-longest-common-subsequence](https://github.com/StafShah/DSA/tree/master/1250-longest-common-subsequence) |
 | [1376-selling-pieces-of-wood](https://github.com/StafShah/DSA/tree/master/1376-selling-pieces-of-wood) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
+| [2262-solving-questions-with-brainpower](https://github.com/StafShah/DSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Greedy
 |  |
 | ------- |
