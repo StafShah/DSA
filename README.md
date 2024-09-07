@@ -37,6 +37,7 @@ Data Structures and Algorithms Solutions
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
+| [1376-selling-pieces-of-wood](https://github.com/StafShah/DSA/tree/master/1376-selling-pieces-of-wood) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
 | [1706-min-cost-to-connect-all-points](https://github.com/StafShah/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -149,6 +150,7 @@ Data Structures and Algorithms Solutions
 | [0518-coin-change-ii](https://github.com/StafShah/DSA/tree/master/0518-coin-change-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/StafShah/DSA/tree/master/1250-longest-common-subsequence) |
+| [1376-selling-pieces-of-wood](https://github.com/StafShah/DSA/tree/master/1376-selling-pieces-of-wood) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
 ## Greedy
 |  |
@@ -300,6 +302,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1376-selling-pieces-of-wood](https://github.com/StafShah/DSA/tree/master/1376-selling-pieces-of-wood) |
 ## Topological Sort
 |  |
 | ------- |
