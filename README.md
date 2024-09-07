@@ -311,6 +311,7 @@ Data Structures and Algorithms Solutions
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StafShah/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/StafShah/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
@@ -379,6 +380,7 @@ Data Structures and Algorithms Solutions
 | [0110-balanced-binary-tree](https://github.com/StafShah/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/StafShah/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StafShah/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/StafShah/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/StafShah/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
@@ -388,6 +390,7 @@ Data Structures and Algorithms Solutions
 | [0110-balanced-binary-tree](https://github.com/StafShah/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/StafShah/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StafShah/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/StafShah/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/StafShah/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Game Theory
@@ -453,6 +456,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StafShah/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/StafShah/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
