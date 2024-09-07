@@ -19,6 +19,7 @@ Data Structures and Algorithms Solutions
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/StafShah/DSA/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/StafShah/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/StafShah/DSA/tree/master/0238-product-of-array-except-self) |
@@ -233,6 +234,7 @@ Data Structures and Algorithms Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/StafShah/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/StafShah/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
 ## Tree
