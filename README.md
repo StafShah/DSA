@@ -27,6 +27,7 @@ Data Structures and Algorithms Solutions
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/StafShah/DSA/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/StafShah/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/StafShah/DSA/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/StafShah/DSA/tree/master/0198-house-robber) |
@@ -115,6 +116,7 @@ Data Structures and Algorithms Solutions
 | [0013-roman-to-integer](https://github.com/StafShah/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/StafShah/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/StafShah/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/StafShah/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/StafShah/DSA/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
@@ -262,6 +264,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/StafShah/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/StafShah/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/StafShah/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/StafShah/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/StafShah/DSA/tree/master/0739-daily-temperatures) |
