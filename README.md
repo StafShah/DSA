@@ -72,6 +72,7 @@ Data Structures and Algorithms Solutions
 | [0007-reverse-integer](https://github.com/StafShah/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/StafShah/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/StafShah/DSA/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/StafShah/DSA/tree/master/0062-unique-paths) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
 ## Recursion
@@ -133,6 +134,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/StafShah/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/StafShah/DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/StafShah/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/StafShah/DSA/tree/master/0097-interleaving-string) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
@@ -303,4 +305,8 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/StafShah/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
