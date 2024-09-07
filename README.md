@@ -74,6 +74,7 @@ Data Structures and Algorithms Solutions
 | [0133-clone-graph](https://github.com/StafShah/DSA/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
@@ -122,6 +123,7 @@ Data Structures and Algorithms Solutions
 | [0097-interleaving-string](https://github.com/StafShah/DSA/tree/master/0097-interleaving-string) |
 | [0127-word-ladder](https://github.com/StafShah/DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0273-integer-to-english-words](https://github.com/StafShah/DSA/tree/master/0273-integer-to-english-words) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
@@ -261,6 +263,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/StafShah/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
@@ -347,6 +350,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Shortest Path
 |  |
