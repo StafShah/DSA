@@ -102,6 +102,7 @@ Data Structures and Algorithms Solutions
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/StafShah/DSA/tree/master/1250-longest-common-subsequence) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +116,7 @@ Data Structures and Algorithms Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -130,6 +132,7 @@ Data Structures and Algorithms Solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/StafShah/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -312,4 +315,16 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/StafShah/DSA/tree/master/0062-unique-paths) |
+## Rolling Hash
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## String Matching
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
