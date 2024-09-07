@@ -38,6 +38,7 @@ Data Structures and Algorithms Solutions
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0695-max-area-of-island](https://github.com/StafShah/DSA/tree/master/0695-max-area-of-island) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
@@ -120,6 +121,7 @@ Data Structures and Algorithms Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/StafShah/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/StafShah/DSA/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/StafShah/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Data Structures and Algorithms Solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/StafShah/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Divide and Conquer
@@ -163,6 +166,7 @@ Data Structures and Algorithms Solutions
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/StafShah/DSA/tree/master/0518-coin-change-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/StafShah/DSA/tree/master/1250-longest-common-subsequence) |
 | [1376-selling-pieces-of-wood](https://github.com/StafShah/DSA/tree/master/1376-selling-pieces-of-wood) |
@@ -357,6 +361,7 @@ Data Structures and Algorithms Solutions
 ## Rolling Hash
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## String Matching
 |  |
@@ -365,6 +370,7 @@ Data Structures and Algorithms Solutions
 ## Hash Function
 |  |
 | ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Doubly-Linked List
 |  |
