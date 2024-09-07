@@ -77,6 +77,7 @@ Data Structures and Algorithms Solutions
 | [0133-clone-graph](https://github.com/StafShah/DSA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/StafShah/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/StafShah/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/StafShah/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -95,6 +96,7 @@ Data Structures and Algorithms Solutions
 | [0021-merge-two-sorted-lists](https://github.com/StafShah/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/StafShah/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/StafShah/DSA/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/StafShah/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 ## Math
@@ -179,6 +181,7 @@ Data Structures and Algorithms Solutions
 | [0015-3sum](https://github.com/StafShah/DSA/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/StafShah/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/StafShah/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
