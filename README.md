@@ -20,6 +20,7 @@ Data Structures and Algorithms Solutions
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/StafShah/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/StafShah/DSA/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/StafShah/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0090-subsets-ii](https://github.com/StafShah/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
@@ -150,6 +151,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/StafShah/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/StafShah/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/StafShah/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -255,6 +257,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/StafShah/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/StafShah/DSA/tree/master/0417-pacific-atlantic-water-flow) |
