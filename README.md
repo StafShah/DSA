@@ -176,6 +176,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
@@ -183,6 +184,7 @@ Data Structures and Algorithms Solutions
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
@@ -193,6 +195,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/StafShah/DSA/tree/master/0110-balanced-binary-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -200,6 +203,7 @@ Data Structures and Algorithms Solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
