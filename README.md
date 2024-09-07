@@ -19,6 +19,7 @@ Data Structures and Algorithms Solutions
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/StafShah/DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/StafShah/DSA/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/StafShah/DSA/tree/master/0136-single-number) |
