@@ -26,6 +26,7 @@ Data Structures and Algorithms Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/StafShah/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
@@ -131,6 +132,7 @@ Data Structures and Algorithms Solutions
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/StafShah/DSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
@@ -179,6 +181,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Monotonic Stack
@@ -205,6 +208,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -218,6 +222,7 @@ Data Structures and Algorithms Solutions
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
@@ -230,6 +235,7 @@ Data Structures and Algorithms Solutions
 | [0127-word-ladder](https://github.com/StafShah/DSA/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
@@ -277,8 +283,10 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Topological Sort
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
