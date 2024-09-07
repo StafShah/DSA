@@ -31,6 +31,7 @@ Data Structures and Algorithms Solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/StafShah/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0220-contains-duplicate-iii](https://github.com/StafShah/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/StafShah/DSA/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/StafShah/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/StafShah/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -150,6 +151,7 @@ Data Structures and Algorithms Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/StafShah/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/StafShah/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
@@ -171,6 +173,7 @@ Data Structures and Algorithms Solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/StafShah/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
@@ -372,6 +375,7 @@ Data Structures and Algorithms Solutions
 | [0090-subsets-ii](https://github.com/StafShah/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/StafShah/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/StafShah/DSA/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
 ## Tree
 |  |
