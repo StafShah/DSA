@@ -331,6 +331,7 @@ Data Structures and Algorithms Solutions
 | [0207-course-schedule](https://github.com/StafShah/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0226-invert-binary-tree](https://github.com/StafShah/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StafShah/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -355,6 +356,7 @@ Data Structures and Algorithms Solutions
 | [0199-binary-tree-right-side-view](https://github.com/StafShah/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/StafShah/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/StafShah/DSA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/StafShah/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/StafShah/DSA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -405,6 +407,7 @@ Data Structures and Algorithms Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/StafShah/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/StafShah/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/StafShah/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/StafShah/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StafShah/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/StafShah/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -417,6 +420,7 @@ Data Structures and Algorithms Solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/StafShah/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/StafShah/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/StafShah/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/StafShah/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StafShah/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/StafShah/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
