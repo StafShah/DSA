@@ -101,6 +101,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/StafShah/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/StafShah/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/StafShah/DSA/tree/master/0191-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -232,6 +233,7 @@ Data Structures and Algorithms Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/StafShah/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
 ## Tree
 |  |
