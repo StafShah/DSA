@@ -32,6 +32,7 @@ Data Structures and Algorithms Solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/StafShah/DSA/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/StafShah/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/StafShah/DSA/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/StafShah/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0238-product-of-array-except-self](https://github.com/StafShah/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -85,6 +86,7 @@ Data Structures and Algorithms Solutions
 | [0141-linked-list-cycle](https://github.com/StafShah/DSA/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/StafShah/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/StafShah/DSA/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/StafShah/DSA/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/StafShah/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -246,6 +248,7 @@ Data Structures and Algorithms Solutions
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/StafShah/DSA/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/StafShah/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/StafShah/DSA/tree/master/0217-contains-duplicate) |
 | [0220-contains-duplicate-iii](https://github.com/StafShah/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0242-valid-anagram](https://github.com/StafShah/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/StafShah/DSA/tree/master/0347-top-k-frequent-elements) |
