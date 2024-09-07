@@ -75,6 +75,7 @@ Data Structures and Algorithms Solutions
 | [0127-word-ladder](https://github.com/StafShah/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/StafShah/DSA/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/StafShah/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
@@ -93,6 +94,7 @@ Data Structures and Algorithms Solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/StafShah/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/StafShah/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/StafShah/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/StafShah/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 ## Math
