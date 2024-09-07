@@ -21,6 +21,7 @@ Data Structures and Algorithms Solutions
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Hash Table
@@ -102,6 +103,7 @@ Data Structures and Algorithms Solutions
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
+| [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +120,7 @@ Data Structures and Algorithms Solutions
 | [0039-combination-sum](https://github.com/StafShah/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/StafShah/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
+| [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
 ## Stack
 |  |
 | ------- |
