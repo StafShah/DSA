@@ -293,6 +293,7 @@ Data Structures and Algorithms Solutions
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/StafShah/DSA/tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/StafShah/DSA/tree/master/0133-clone-graph) |
@@ -361,6 +362,7 @@ Data Structures and Algorithms Solutions
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/StafShah/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/StafShah/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StafShah/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -368,6 +370,7 @@ Data Structures and Algorithms Solutions
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/StafShah/DSA/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/StafShah/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StafShah/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -433,6 +436,7 @@ Data Structures and Algorithms Solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/StafShah/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/StafShah/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
