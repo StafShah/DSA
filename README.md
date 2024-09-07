@@ -262,6 +262,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/StafShah/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/StafShah/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/StafShah/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/StafShah/DSA/tree/master/0739-daily-temperatures) |
 ## Heap (Priority Queue)
@@ -302,6 +303,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/StafShah/DSA/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/StafShah/DSA/tree/master/0303-range-sum-query-immutable) |
