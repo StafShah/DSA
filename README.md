@@ -29,6 +29,7 @@ Data Structures and Algorithms Solutions
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
+| [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
@@ -49,6 +50,7 @@ Data Structures and Algorithms Solutions
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
+| [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ Data Structures and Algorithms Solutions
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
+| [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/StafShah/DSA/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
@@ -141,6 +144,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0015-3sum](https://github.com/StafShah/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
+| [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,6 +192,7 @@ Data Structures and Algorithms Solutions
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
@@ -210,6 +215,7 @@ Data Structures and Algorithms Solutions
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -221,6 +227,7 @@ Data Structures and Algorithms Solutions
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
