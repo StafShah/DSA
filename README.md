@@ -76,6 +76,7 @@ Data Structures and Algorithms Solutions
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
+| [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0829-subdomain-visit-count](https://github.com/StafShah/DSA/tree/master/0829-subdomain-visit-count) |
@@ -128,6 +129,7 @@ Data Structures and Algorithms Solutions
 | [0273-integer-to-english-words](https://github.com/StafShah/DSA/tree/master/0273-integer-to-english-words) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0829-subdomain-visit-count](https://github.com/StafShah/DSA/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/StafShah/DSA/tree/master/1023-time-based-key-value-store) |
@@ -140,6 +142,7 @@ Data Structures and Algorithms Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/StafShah/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/StafShah/DSA/tree/master/0076-minimum-window-substring) |
 | [0220-contains-duplicate-iii](https://github.com/StafShah/DSA/tree/master/0220-contains-duplicate-iii) |
+| [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Binary Search
 |  |
@@ -168,6 +171,7 @@ Data Structures and Algorithms Solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/StafShah/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
 |  |
