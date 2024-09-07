@@ -111,6 +111,7 @@ Data Structures and Algorithms Solutions
 | [0097-interleaving-string](https://github.com/StafShah/DSA/tree/master/0097-interleaving-string) |
 | [0152-maximum-product-subarray](https://github.com/StafShah/DSA/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
@@ -214,4 +215,8 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/StafShah/DSA/tree/master/1706-min-cost-to-connect-all-points) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
