@@ -34,6 +34,7 @@ Data Structures and Algorithms Solutions
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/StafShah/DSA/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
@@ -58,6 +59,7 @@ Data Structures and Algorithms Solutions
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 ## Linked List
 |  |
@@ -161,12 +163,14 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/StafShah/DSA/tree/master/0011-container-with-most-water) |
+| [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/StafShah/DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
+| [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
 ## Backtracking
 |  |
@@ -186,6 +190,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/StafShah/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
+| [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -338,4 +343,8 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/StafShah/DSA/tree/master/0146-lru-cache) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
