@@ -53,6 +53,7 @@ Data Structures and Algorithms Solutions
 | [0747-min-cost-climbing-stairs](https://github.com/StafShah/DSA/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0829-subdomain-visit-count](https://github.com/StafShah/DSA/tree/master/0829-subdomain-visit-count) |
+| [0907-koko-eating-bananas](https://github.com/StafShah/DSA/tree/master/0907-koko-eating-bananas) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/StafShah/DSA/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/StafShah/DSA/tree/master/1127-last-stone-weight) |
@@ -168,6 +169,7 @@ Data Structures and Algorithms Solutions
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/StafShah/DSA/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
+| [0907-koko-eating-bananas](https://github.com/StafShah/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/StafShah/DSA/tree/master/1023-time-based-key-value-store) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Divide and Conquer
