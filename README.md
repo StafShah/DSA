@@ -18,6 +18,7 @@ Data Structures and Algorithms Solutions
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
+| [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Data Structures and Algorithms Solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StafShah/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/StafShah/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
+| [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -128,4 +130,12 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
+## Union Find
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
+## Graph
+|  |
+| ------- |
+| [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 <!---LeetCode Topics End-->
