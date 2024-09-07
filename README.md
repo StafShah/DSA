@@ -11,6 +11,7 @@ Data Structures and Algorithms Solutions
 | [0011-container-with-most-water](https://github.com/StafShah/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/StafShah/DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/StafShah/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Data Structures and Algorithms Solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/StafShah/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/StafShah/DSA/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/StafShah/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
 ## Linked List
 |  |
 | ------- |
@@ -95,4 +97,8 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/StafShah/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
