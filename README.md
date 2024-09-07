@@ -18,6 +18,7 @@ Data Structures and Algorithms Solutions
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/StafShah/DSA/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/StafShah/DSA/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
@@ -39,6 +40,7 @@ Data Structures and Algorithms Solutions
 | [0041-first-missing-positive](https://github.com/StafShah/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/StafShah/DSA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 ## Linked List
 |  |
@@ -166,6 +168,7 @@ Data Structures and Algorithms Solutions
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
