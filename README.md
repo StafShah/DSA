@@ -42,6 +42,7 @@ Data Structures and Algorithms Solutions
 | [0041-first-missing-positive](https://github.com/StafShah/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/StafShah/DSA/tree/master/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/StafShah/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 ## Linked List
@@ -77,6 +78,7 @@ Data Structures and Algorithms Solutions
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/StafShah/DSA/tree/master/0076-minimum-window-substring) |
 | [0097-interleaving-string](https://github.com/StafShah/DSA/tree/master/0097-interleaving-string) |
+| [0127-word-ladder](https://github.com/StafShah/DSA/tree/master/0127-word-ladder) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
@@ -203,6 +205,7 @@ Data Structures and Algorithms Solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/StafShah/DSA/tree/master/0127-word-ladder) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
