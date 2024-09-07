@@ -20,6 +20,7 @@ Data Structures and Algorithms Solutions
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/StafShah/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/StafShah/DSA/tree/master/0057-insert-interval) |
+| [0090-subsets-ii](https://github.com/StafShah/DSA/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/StafShah/DSA/tree/master/0136-single-number) |
@@ -218,6 +219,7 @@ Data Structures and Algorithms Solutions
 | [0039-combination-sum](https://github.com/StafShah/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/StafShah/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/StafShah/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
 ## Stack
 |  |
@@ -356,6 +358,7 @@ Data Structures and Algorithms Solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/StafShah/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/StafShah/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/StafShah/DSA/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
