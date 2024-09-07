@@ -136,9 +136,19 @@ Data Structures and Algorithms Solutions
 ## Union Find
 |  |
 | ------- |
+| [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 ## Graph
 |  |
 | ------- |
+| [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
+## Depth-First Search
+|  |
+| ------- |
+| [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 <!---LeetCode Topics End-->
