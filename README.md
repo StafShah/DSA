@@ -59,6 +59,7 @@ Data Structures and Algorithms Solutions
 | [0792-binary-search](https://github.com/StafShah/DSA/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0829-subdomain-visit-count](https://github.com/StafShah/DSA/tree/master/0829-subdomain-visit-count) |
+| [0883-car-fleet](https://github.com/StafShah/DSA/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/StafShah/DSA/tree/master/0907-koko-eating-bananas) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/StafShah/DSA/tree/master/1036-rotting-oranges) |
@@ -271,6 +272,7 @@ Data Structures and Algorithms Solutions
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
+| [0883-car-fleet](https://github.com/StafShah/DSA/tree/master/0883-car-fleet) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/StafShah/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 ## Backtracking
 |  |
@@ -290,6 +292,7 @@ Data Structures and Algorithms Solutions
 | [0155-min-stack](https://github.com/StafShah/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/StafShah/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/StafShah/DSA/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/StafShah/DSA/tree/master/0883-car-fleet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -325,6 +328,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/StafShah/DSA/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/StafShah/DSA/tree/master/0883-car-fleet) |
 ## Design
 |  |
 | ------- |
