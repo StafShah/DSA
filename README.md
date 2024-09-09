@@ -18,6 +18,7 @@ Data Structures and Algorithms Solutions
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/StafShah/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/StafShah/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/StafShah/DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/StafShah/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -223,6 +224,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/StafShah/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/StafShah/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/StafShah/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/StafShah/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/StafShah/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/StafShah/DSA/tree/master/0091-decode-ways) |
@@ -253,6 +255,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/StafShah/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/StafShah/DSA/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
