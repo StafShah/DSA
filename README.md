@@ -23,6 +23,7 @@ Data Structures and Algorithms Solutions
 | [0056-merge-intervals](https://github.com/StafShah/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/StafShah/DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/StafShah/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/StafShah/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/StafShah/DSA/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StafShah/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -149,6 +150,7 @@ Data Structures and Algorithms Solutions
 | [0020-valid-parentheses](https://github.com/StafShah/DSA/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/StafShah/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/StafShah/DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/StafShah/DSA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/StafShah/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/StafShah/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/StafShah/DSA/tree/master/0115-distinct-subsequences) |
@@ -288,6 +290,7 @@ Data Structures and Algorithms Solutions
 | [0039-combination-sum](https://github.com/StafShah/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/StafShah/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/StafShah/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/StafShah/DSA/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
 ## Stack
@@ -323,6 +326,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/StafShah/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/StafShah/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/StafShah/DSA/tree/master/0417-pacific-atlantic-water-flow) |
