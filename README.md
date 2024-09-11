@@ -156,6 +156,7 @@ Data Structures and Algorithms Solutions
 | [0127-word-ladder](https://github.com/StafShah/DSA/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/StafShah/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/StafShah/DSA/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/StafShah/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/StafShah/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/StafShah/DSA/tree/master/0242-valid-anagram) |
@@ -215,6 +216,7 @@ Data Structures and Algorithms Solutions
 | [0125-valid-palindrome](https://github.com/StafShah/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/StafShah/DSA/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/StafShah/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/StafShah/DSA/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/StafShah/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/StafShah/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
