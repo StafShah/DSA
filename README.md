@@ -131,6 +131,7 @@ Data Structures and Algorithms Solutions
 | [0273-integer-to-english-words](https://github.com/StafShah/DSA/tree/master/0273-integer-to-english-words) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
+| [1674-minimum-operations-to-make-array-equal](https://github.com/StafShah/DSA/tree/master/1674-minimum-operations-to-make-array-equal) |
 ## Recursion
 |  |
 | ------- |
