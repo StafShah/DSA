@@ -357,6 +357,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/StafShah/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/StafShah/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
@@ -371,6 +372,7 @@ Data Structures and Algorithms Solutions
 | [0207-course-schedule](https://github.com/StafShah/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/StafShah/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/StafShah/DSA/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/StafShah/DSA/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -398,6 +400,7 @@ Data Structures and Algorithms Solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/StafShah/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/StafShah/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/StafShah/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/StafShah/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
@@ -423,6 +426,7 @@ Data Structures and Algorithms Solutions
 | [0322-coin-change](https://github.com/StafShah/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/StafShah/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0547-number-of-provinces](https://github.com/StafShah/DSA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/StafShah/DSA/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/StafShah/DSA/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
