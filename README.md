@@ -385,6 +385,7 @@ Data Structures and Algorithms Solutions
 | [1325-path-with-maximum-probability](https://github.com/StafShah/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/StafShah/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/StafShah/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/StafShah/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1706-min-cost-to-connect-all-points](https://github.com/StafShah/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Depth-First Search
 |  |
@@ -415,6 +416,7 @@ Data Structures and Algorithms Solutions
 | [1120-flower-planting-with-no-adjacent](https://github.com/StafShah/DSA/tree/master/1120-flower-planting-with-no-adjacent) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/StafShah/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/StafShah/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/StafShah/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -443,6 +445,7 @@ Data Structures and Algorithms Solutions
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/StafShah/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/StafShah/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/StafShah/DSA/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/StafShah/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 ## Prefix Sum
 |  |
