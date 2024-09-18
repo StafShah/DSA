@@ -74,6 +74,7 @@ Data Structures and Algorithms Solutions
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/StafShah/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1706-min-cost-to-connect-all-points](https://github.com/StafShah/DSA/tree/master/1706-min-cost-to-connect-all-points) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/StafShah/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2262-solving-questions-with-brainpower](https://github.com/StafShah/DSA/tree/master/2262-solving-questions-with-brainpower) |
 ## Hash Table
@@ -274,6 +275,7 @@ Data Structures and Algorithms Solutions
 | [0055-jump-game](https://github.com/StafShah/DSA/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/StafShah/DSA/tree/master/0768-partition-labels) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/StafShah/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Sorting
 |  |
 | ------- |
