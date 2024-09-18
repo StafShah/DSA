@@ -103,6 +103,7 @@ Data Structures and Algorithms Solutions
 | [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/StafShah/DSA/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/StafShah/DSA/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/StafShah/DSA/tree/master/1023-time-based-key-value-store) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/StafShah/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -172,6 +173,7 @@ Data Structures and Algorithms Solutions
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
 | [0721-accounts-merge](https://github.com/StafShah/DSA/tree/master/0721-accounts-merge) |
+| [0768-partition-labels](https://github.com/StafShah/DSA/tree/master/0768-partition-labels) |
 | [0829-subdomain-visit-count](https://github.com/StafShah/DSA/tree/master/0829-subdomain-visit-count) |
 | [1023-time-based-key-value-store](https://github.com/StafShah/DSA/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
@@ -227,6 +229,7 @@ Data Structures and Algorithms Solutions
 | [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/StafShah/DSA/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/StafShah/DSA/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/StafShah/DSA/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/StafShah/DSA/tree/master/1894-merge-strings-alternately) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Dynamic Programming
@@ -270,6 +273,7 @@ Data Structures and Algorithms Solutions
 | [0045-jump-game-ii](https://github.com/StafShah/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/StafShah/DSA/tree/master/0055-jump-game) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
+| [0768-partition-labels](https://github.com/StafShah/DSA/tree/master/0768-partition-labels) |
 ## Sorting
 |  |
 | ------- |
