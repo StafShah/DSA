@@ -25,6 +25,7 @@ Data Structures and Algorithms Solutions
 | [0074-search-a-2d-matrix](https://github.com/StafShah/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/StafShah/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/StafShah/DSA/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/StafShah/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StafShah/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/StafShah/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
@@ -245,6 +246,7 @@ Data Structures and Algorithms Solutions
 | [0091-decode-ways](https://github.com/StafShah/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/StafShah/DSA/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/StafShah/DSA/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/StafShah/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StafShah/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/StafShah/DSA/tree/master/0152-maximum-product-subarray) |
