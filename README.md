@@ -162,6 +162,7 @@ Data Structures and Algorithms Solutions
 | [0115-distinct-subsequences](https://github.com/StafShah/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/StafShah/DSA/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/StafShah/DSA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/StafShah/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/StafShah/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/StafShah/DSA/tree/master/0165-compare-version-numbers) |
@@ -248,6 +249,7 @@ Data Structures and Algorithms Solutions
 | [0115-distinct-subsequences](https://github.com/StafShah/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/StafShah/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/StafShah/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/StafShah/DSA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/StafShah/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/StafShah/DSA/tree/master/0198-house-robber) |
@@ -304,6 +306,7 @@ Data Structures and Algorithms Solutions
 | [0046-permutations](https://github.com/StafShah/DSA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/StafShah/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/StafShah/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/StafShah/DSA/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
 ## Stack
 |  |
