@@ -22,6 +22,7 @@ Data Structures and Algorithms Solutions
 | [0055-jump-game](https://github.com/StafShah/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/StafShah/DSA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/StafShah/DSA/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/StafShah/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/StafShah/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/StafShah/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/StafShah/DSA/tree/master/0090-subsets-ii) |
@@ -244,6 +245,7 @@ Data Structures and Algorithms Solutions
 | [0045-jump-game-ii](https://github.com/StafShah/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/StafShah/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/StafShah/DSA/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/StafShah/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/StafShah/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/StafShah/DSA/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/StafShah/DSA/tree/master/0097-interleaving-string) |
@@ -342,6 +344,7 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/StafShah/DSA/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/StafShah/DSA/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/StafShah/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/StafShah/DSA/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/StafShah/DSA/tree/master/0130-surrounded-regions) |
