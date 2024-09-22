@@ -134,6 +134,7 @@ Data Structures and Algorithms Solutions
 | [0070-climbing-stairs](https://github.com/StafShah/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/StafShah/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/StafShah/DSA/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/StafShah/DSA/tree/master/0279-perfect-squares) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/StafShah/DSA/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -253,6 +254,7 @@ Data Structures and Algorithms Solutions
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/StafShah/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/StafShah/DSA/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/StafShah/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/StafShah/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/StafShah/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/StafShah/DSA/tree/master/0322-coin-change) |
@@ -440,6 +442,7 @@ Data Structures and Algorithms Solutions
 | [0207-course-schedule](https://github.com/StafShah/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/StafShah/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/StafShah/DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/StafShah/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/StafShah/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/StafShah/DSA/tree/master/0417-pacific-atlantic-water-flow) |
