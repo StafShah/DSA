@@ -48,6 +48,7 @@ Data Structures and Algorithms Solutions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/StafShah/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0377-combination-sum-iv](https://github.com/StafShah/DSA/tree/master/0377-combination-sum-iv) |
+| [0396-rotate-function](https://github.com/StafShah/DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/StafShah/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
@@ -136,6 +137,7 @@ Data Structures and Algorithms Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/StafShah/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/StafShah/DSA/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/StafShah/DSA/tree/master/0279-perfect-squares) |
+| [0396-rotate-function](https://github.com/StafShah/DSA/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/StafShah/DSA/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -264,6 +266,7 @@ Data Structures and Algorithms Solutions
 | [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/StafShah/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/StafShah/DSA/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/StafShah/DSA/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
