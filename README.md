@@ -267,6 +267,7 @@ Data Structures and Algorithms Solutions
 | [0377-combination-sum-iv](https://github.com/StafShah/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/StafShah/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/StafShah/DSA/tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/StafShah/DSA/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/StafShah/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/StafShah/DSA/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/StafShah/DSA/tree/master/0494-target-sum) |
@@ -284,6 +285,7 @@ Data Structures and Algorithms Solutions
 | [0011-container-with-most-water](https://github.com/StafShah/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/StafShah/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/StafShah/DSA/tree/master/0055-jump-game) |
+| [0397-integer-replacement](https://github.com/StafShah/DSA/tree/master/0397-integer-replacement) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/StafShah/DSA/tree/master/0768-partition-labels) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/StafShah/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -496,6 +498,7 @@ Data Structures and Algorithms Solutions
 | [0191-number-of-1-bits](https://github.com/StafShah/DSA/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/StafShah/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/StafShah/DSA/tree/master/0397-integer-replacement) |
 ## Tree
 |  |
 | ------- |
@@ -532,6 +535,7 @@ Data Structures and Algorithms Solutions
 | [0070-climbing-stairs](https://github.com/StafShah/DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/StafShah/DSA/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/StafShah/DSA/tree/master/0397-integer-replacement) |
 | [1376-selling-pieces-of-wood](https://github.com/StafShah/DSA/tree/master/1376-selling-pieces-of-wood) |
 ## Topological Sort
 |  |
