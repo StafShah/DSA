@@ -137,6 +137,7 @@ Data Structures and Algorithms Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/StafShah/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0273-integer-to-english-words](https://github.com/StafShah/DSA/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/StafShah/DSA/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/StafShah/DSA/tree/master/0343-integer-break) |
 | [0396-rotate-function](https://github.com/StafShah/DSA/tree/master/0396-rotate-function) |
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
@@ -264,6 +265,7 @@ Data Structures and Algorithms Solutions
 | [0322-coin-change](https://github.com/StafShah/DSA/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/StafShah/DSA/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/StafShah/DSA/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/StafShah/DSA/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/StafShah/DSA/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/StafShah/DSA/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/StafShah/DSA/tree/master/0396-rotate-function) |
