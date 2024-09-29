@@ -80,6 +80,7 @@ Data Structures and Algorithms Solutions
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/StafShah/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2262-solving-questions-with-brainpower](https://github.com/StafShah/DSA/tree/master/2262-solving-questions-with-brainpower) |
+| [2433-best-poker-hand](https://github.com/StafShah/DSA/tree/master/2433-best-poker-hand) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Data Structures and Algorithms Solutions
 | [1023-time-based-key-value-store](https://github.com/StafShah/DSA/tree/master/1023-time-based-key-value-store) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/StafShah/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/StafShah/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
+| [2433-best-poker-hand](https://github.com/StafShah/DSA/tree/master/2433-best-poker-hand) |
 ## Linked List
 |  |
 | ------- |
@@ -576,6 +578,7 @@ Data Structures and Algorithms Solutions
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0829-subdomain-visit-count](https://github.com/StafShah/DSA/tree/master/0829-subdomain-visit-count) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/StafShah/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [2433-best-poker-hand](https://github.com/StafShah/DSA/tree/master/2433-best-poker-hand) |
 ## Bucket Sort
 |  |
 | ------- |
