@@ -69,6 +69,7 @@ Data Structures and Algorithms Solutions
 | [0907-koko-eating-bananas](https://github.com/StafShah/DSA/tree/master/0907-koko-eating-bananas) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
 | [1036-rotting-oranges](https://github.com/StafShah/DSA/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/StafShah/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1127-last-stone-weight](https://github.com/StafShah/DSA/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/StafShah/DSA/tree/master/1325-path-with-maximum-probability) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/StafShah/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
@@ -292,6 +293,7 @@ Data Structures and Algorithms Solutions
 | [0397-integer-replacement](https://github.com/StafShah/DSA/tree/master/0397-integer-replacement) |
 | [0621-task-scheduler](https://github.com/StafShah/DSA/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/StafShah/DSA/tree/master/0768-partition-labels) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/StafShah/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/StafShah/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
 ## Sorting
 |  |
