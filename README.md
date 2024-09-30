@@ -75,6 +75,7 @@ Data Structures and Algorithms Solutions
 | [1354-find-players-with-zero-or-one-losses](https://github.com/StafShah/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1376-selling-pieces-of-wood](https://github.com/StafShah/DSA/tree/master/1376-selling-pieces-of-wood) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/StafShah/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/StafShah/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/StafShah/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1706-min-cost-to-connect-all-points](https://github.com/StafShah/DSA/tree/master/1706-min-cost-to-connect-all-points) |
@@ -333,6 +334,7 @@ Data Structures and Algorithms Solutions
 | [0234-palindrome-linked-list](https://github.com/StafShah/DSA/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/StafShah/DSA/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/StafShah/DSA/tree/master/0883-car-fleet) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/StafShah/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -382,6 +384,7 @@ Data Structures and Algorithms Solutions
 | [0355-design-twitter](https://github.com/StafShah/DSA/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/StafShah/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1023-time-based-key-value-store](https://github.com/StafShah/DSA/tree/master/1023-time-based-key-value-store) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/StafShah/DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Union Find
 |  |
 | ------- |
