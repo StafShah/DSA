@@ -405,6 +405,7 @@ Data Structures and Algorithms Solutions
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0922-possible-bipartition](https://github.com/StafShah/DSA/tree/master/0922-possible-bipartition) |
 | [1032-satisfiability-of-equality-equations](https://github.com/StafShah/DSA/tree/master/1032-satisfiability-of-equality-equations) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/StafShah/DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/StafShah/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
@@ -424,6 +425,7 @@ Data Structures and Algorithms Solutions
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/StafShah/DSA/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/StafShah/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/StafShah/DSA/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/StafShah/DSA/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1706-min-cost-to-connect-all-points](https://github.com/StafShah/DSA/tree/master/1706-min-cost-to-connect-all-points) |
 ## Depth-First Search
 |  |
