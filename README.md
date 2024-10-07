@@ -84,6 +84,7 @@ Data Structures and Algorithms Solutions
 | [2262-solving-questions-with-brainpower](https://github.com/StafShah/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2433-best-poker-hand](https://github.com/StafShah/DSA/tree/master/2433-best-poker-hand) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/StafShah/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/StafShah/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Data Structures and Algorithms Solutions
 | [0539-minimum-time-difference](https://github.com/StafShah/DSA/tree/master/0539-minimum-time-difference) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/StafShah/DSA/tree/master/1674-minimum-operations-to-make-array-equal) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/StafShah/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
 |  |
 | ------- |
@@ -321,6 +323,7 @@ Data Structures and Algorithms Solutions
 | [1354-find-players-with-zero-or-one-losses](https://github.com/StafShah/DSA/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1436-get-watched-videos-by-your-friends](https://github.com/StafShah/DSA/tree/master/1436-get-watched-videos-by-your-friends) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/StafShah/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/StafShah/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -619,4 +622,12 @@ Data Structures and Algorithms Solutions
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/StafShah/DSA/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/StafShah/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+## Enumeration
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/StafShah/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
