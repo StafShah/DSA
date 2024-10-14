@@ -83,6 +83,7 @@ Data Structures and Algorithms Solutions
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/StafShah/DSA/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2262-solving-questions-with-brainpower](https://github.com/StafShah/DSA/tree/master/2262-solving-questions-with-brainpower) |
 | [2433-best-poker-hand](https://github.com/StafShah/DSA/tree/master/2433-best-poker-hand) |
+| [2530-minimize-maximum-of-array](https://github.com/StafShah/DSA/tree/master/2530-minimize-maximum-of-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/StafShah/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/StafShah/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Hash Table
@@ -221,6 +222,7 @@ Data Structures and Algorithms Solutions
 | [0794-swim-in-rising-water](https://github.com/StafShah/DSA/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/StafShah/DSA/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/StafShah/DSA/tree/master/1023-time-based-key-value-store) |
+| [2530-minimize-maximum-of-array](https://github.com/StafShah/DSA/tree/master/2530-minimize-maximum-of-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/StafShah/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/StafShah/DSA/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Divide and Conquer
@@ -293,6 +295,7 @@ Data Structures and Algorithms Solutions
 | [1376-selling-pieces-of-wood](https://github.com/StafShah/DSA/tree/master/1376-selling-pieces-of-wood) |
 | [1522-stone-game-iii](https://github.com/StafShah/DSA/tree/master/1522-stone-game-iii) |
 | [2262-solving-questions-with-brainpower](https://github.com/StafShah/DSA/tree/master/2262-solving-questions-with-brainpower) |
+| [2530-minimize-maximum-of-array](https://github.com/StafShah/DSA/tree/master/2530-minimize-maximum-of-array) |
 ## Greedy
 |  |
 | ------- |
@@ -304,6 +307,7 @@ Data Structures and Algorithms Solutions
 | [0768-partition-labels](https://github.com/StafShah/DSA/tree/master/0768-partition-labels) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/StafShah/DSA/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/StafShah/DSA/tree/master/2026-merge-triplets-to-form-target-triplet) |
+| [2530-minimize-maximum-of-array](https://github.com/StafShah/DSA/tree/master/2530-minimize-maximum-of-array) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/StafShah/DSA/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Sorting
 |  |
@@ -496,6 +500,7 @@ Data Structures and Algorithms Solutions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/StafShah/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/StafShah/DSA/tree/master/0303-range-sum-query-immutable) |
+| [2530-minimize-maximum-of-array](https://github.com/StafShah/DSA/tree/master/2530-minimize-maximum-of-array) |
 ## Trie
 |  |
 | ------- |
